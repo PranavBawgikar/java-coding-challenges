@@ -13,4 +13,4 @@
 <a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/Missingno.java">Missingno!</a> `HackerEarth`<br>
 
 ## Medium
-<a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/NumOfIslands.java">Number of Islands</a> `LeetCode`<br>
+<a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/NumOfIslands.java">Number of Islands</a> `LeetCode` 🏝️<br>
