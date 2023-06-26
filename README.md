@@ -11,7 +11,10 @@
 <a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/Sequence.java">Cummulative Sum and Multiplication Sequence</a><br>
 <a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/AltTabProb.java">ALT-TAB Window Problem/K Most Recently Used Apps</a><br>
 <a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/Missingno.java">Missingno!</a> `HackerEarth`<br>
-<a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/NumberOfValleys.java">Number of Valleys</a> `HackerRank`⛰️<br>
+<a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/NumberOfValleys.java">Number of Valleys</a>⛰️ `HackerRank`<br>
+<a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/AlienDict.java">Verify the Alien Dictionary</a>👽 `HackerEarth`<br>
+<a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/SubsetCheck.java">Set Subset Check</a><br>
+<a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/Median.java">Median Calculation</a><br>
 
 ## Medium
-<a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/NumOfIslands.java">Number of Islands</a> `LeetCode`🏝️<br>
+<a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/NumOfIslands.java">Number of Islands</a>🏝️ `LeetCode`<br>
