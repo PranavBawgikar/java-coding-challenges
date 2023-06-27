@@ -108,9 +108,35 @@ That's it! You can now explore and solve the coding challenges locally on your m
   <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/Median.java">Median Calculation</a></td>
     <td>Easy</td>
   </tr>
+   <tr>
+    <td>16</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/NameAbbreviation.java">Name Abbreviation</a></td>
+    <td>Easy</td>
+  </tr>
+   <tr>
+    <td>17</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/HailstoneSeq.java">Hailstone Sequence</a></td>
+    <td>Easy</td>
+  </tr>
+   <tr>
+    <td>18</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/JumpClouds.java">Jumping on the Clouds</a>☁️ | HackerRank</td>
+    <td>Easy</td>
+  </tr>
 </table>
 
 <br>
 
-## Medium
-<a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/NumOfIslands.java">Number of Islands</a>🏝️ `LeetCode`<br>
+## 
+<table>
+  <tr>
+    <th>#</th>
+    <th>Challenge</th>
+    <th>Difficulty</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/NumOfIslands.java">Number of Islands</a>🏝️ | LeetCode</td>
+    <td>Medium</td>
+  </tr>
+</table>
