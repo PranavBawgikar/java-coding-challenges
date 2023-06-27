@@ -1,4 +1,39 @@
-<h1 align="center">Coding Challenges in Java</h1>
+<h1 align="center">💻Coding Challenges in Java♨️</h1>
+
+## Steps to Run Locally
+
+To run the coding challenges locally on your machine, follow these steps:
+
+1. Make sure you have Java Development Kit (JDK) installed on your system. You can download the latest version of JDK from the official Oracle website or use a package manager like Homebrew.
+
+2. Clone this repository to your local machine using the following command:
+
+   ```
+   git clone https://github.com/your-username/coding-challenges-java.git
+   ```
+
+3. Navigate to the project directory:
+
+   ```
+   cd coding-challenges-java
+   ```
+
+4. Compile the Java source files using the Java compiler (`javac`). For example, if you want to compile a file named `Challenge.java`, run the following command:
+
+   ```
+   javac Challenge.java
+   ```
+   Note: Make sure to replace the file name each time you compile a new challenge, with it's respective name.
+
+5. Once the compilation is successful, you can run the Java program using the Java Virtual Machine (JVM). For example, if the main class is `Challenge`, execute the following command:
+
+   ```
+   java Challenge
+   ```
+   This will execute the main method of the `Challenge` class and display the output of the coding challenge.
+   <br>Note: Make sure to replace the file name each time you run a new challenge, with it's respective name.
+
+That's it! You can now explore and solve the coding challenges locally on your machine. Happy coding!
 
 ## 
 <table>
