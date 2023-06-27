@@ -1,8 +1,24 @@
 <h1 align="center">Coding Challenges in Java</h1>
 
 ## Easy
-<a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/SolveMeFirst.java">Solve Me First</a> `HackerRank` <br>
-<a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/BobEncryption.java">Bob's Code Encryption</a><br>
+<table>
+  <tr>
+    <th>#</th>
+    <th>Challenge</th>
+    <th>Difficulty</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td style="padding: 5px; background-color: lightgrey; border-radius: 5px; color: olive;"><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/SolveMeFirst.java">Solve Me First</a> -  HackerRank</td>
+    <td>Easy</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/BobEncryption.java">Bob's Code Encryption</a></td>
+    <td>Easy</td>
+  </tr>
+</table>
+
 <a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/DigitOcurrence.java">Occurrence of a Digit in a Range</a><br>
 <a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/OuterParenthesis.java">Remove Outermost Parenthesis</a><br>
 <a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/SubstringComp.java">Java Substring Comparison</a> `HackerRank`<br>
