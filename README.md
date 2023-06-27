@@ -44,7 +44,7 @@ That's it! You can now explore and solve the coding challenges locally on your m
   </tr>
   <tr>
     <td>1</td>
-    <td style="padding: 5px; background-color: lightgrey; border-radius: 5px; color: olive;"><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/SolveMeFirst.java">Solve Me First</a> -  HackerRank</td>
+    <td style="padding: 5px; background-color: lightgrey; border-radius: 5px; color: olive;"><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/SolveMeFirst.java">Solve Me First</a> | HackerRank</td>
     <td>Easy</td>
   </tr>
   <tr>
@@ -62,11 +62,11 @@ That's it! You can now explore and solve the coding challenges locally on your m
     <td>Easy</td>
   </tr>
   <td>5</td>
-    <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/SubstringComp.java">Java Substring Comparison</a> - HackerRank</td>
+    <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/SubstringComp.java">Java Substring Comparison</a> | HackerRank</td>
     <td>Easy</td>
   </tr>
   <td>7</td>
-    <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/PascalTri.java">Pascal's Triangle</a> - LeetCode</td>
+    <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/PascalTri.java">Pascal's Triangle</a> | LeetCode</td>
     <td>Easy</td>
   </tr>
   <td>8</td>
@@ -84,17 +84,17 @@ That's it! You can now explore and solve the coding challenges locally on your m
   </tr>
   <tr>
     <td>11</td>
-  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/Missingno.java">Missingno!</a> - HackerEarth</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/Missingno.java">Missingno!</a> | HackerEarth</td>
     <td>Easy</td>
   </tr>
   <tr>
     <td>12</td>
-  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/NumberOfValleys.java">Number of Valleys</a>⛰️ - HackerRank</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/NumberOfValleys.java">Number of Valleys</a>⛰️ | HackerRank</td>
     <td>Easy</td>
   </tr>
   <tr>
     <td>13</td>
-  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/AlienDict.java">Verify the Alien Dictionary</a>👽- HackerEarth</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/AlienDict.java">Verify the Alien Dictionary</a>👽| HackerEarth</td>
     <td>Easy</td>
   </tr>
   <tr>
