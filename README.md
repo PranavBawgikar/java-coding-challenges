@@ -123,6 +123,26 @@ That's it! You can now explore and solve the coding challenges locally on your m
   <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/JumpClouds.java">Jumping on the Clouds</a>☁️ | HackerRank</td>
     <td>Easy</td>
   </tr>
+   <tr>
+    <td>19</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/ZeroesToLast.java">Zeroes to the End</a></td>
+    <td>Easy</td>
+  </tr>
+   <tr>
+    <td>20</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/SecondMaxVal.java">Second Maximum Value</a></td>
+    <td>Easy</td>
+  </tr>
+   <tr>
+    <td>21</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/MinValInArr.java">Minimum Value in Array</a></td>
+    <td>Easy</td>
+  </tr>
+   <tr>
+    <td>22</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/RevArr.java">Array/String Reversal</a></td>
+    <td>Easy</td>
+  </tr>
 </table>
 
 <br>
