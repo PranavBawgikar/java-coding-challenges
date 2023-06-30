@@ -159,4 +159,9 @@ That's it! You can now explore and solve the coding challenges locally on your m
     <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/NumOfIslands.java">Number of Islands</a>🏝️ | LeetCode</td>
     <td>Medium</td>
   </tr>
+   <tr>
+    <td>2</td>
+    <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/BalancedStars.java">Balancing Stars</a>🌠 </td>
+    <td>Medium</td>
+  </tr>
 </table>
