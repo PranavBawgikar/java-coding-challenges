@@ -143,6 +143,22 @@ That's it! You can now explore and solve the coding challenges locally on your m
   <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/RevArr.java">Array/String Reversal</a></td>
     <td>Easy</td>
   </tr>
+   </tr>
+   <tr>
+    <td>23</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/GoldenLetters.java">Golden Letters</a> | HackerEarth</td>
+    <td>Easy</td>
+  </tr>
+   <tr>
+    <td>24</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/Armstrong.java">Armstrong Number Between Two Intervals</a>👨‍🚀</td>
+    <td>Easy</td>
+  </tr>
+   <tr>
+    <td>25</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/LuckBalance.java">Luck Balance</a>⚖️ | HackerRank</td>
+    <td>Easy</td>
+  </tr>
 </table>
 
 <br>
@@ -162,6 +178,16 @@ That's it! You can now explore and solve the coding challenges locally on your m
    <tr>
     <td>2</td>
     <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/BalancedStars.java">Balancing Stars</a>🌠 </td>
+    <td>Medium</td>
+  </tr>
+   <tr>
+    <td>3</td>
+    <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/HospitalTVSets.java">Television Sets</a>📺 </td>
+    <td>Medium</td>
+  </tr>
+   <tr>
+    <td>4</td>
+    <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/StockMarketProfit.java">Stock Market Profit</a>📈 | Facebook</td>
     <td>Medium</td>
   </tr>
 </table>
