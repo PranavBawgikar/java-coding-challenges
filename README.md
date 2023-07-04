@@ -159,6 +159,11 @@ That's it! You can now explore and solve the coding challenges locally on your m
   <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/LuckBalance.java">Luck Balance</a>⚖️ | HackerRank</td>
     <td>Easy</td>
   </tr>
+   <tr>
+    <td>26</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/CountInversion.java">Count Inversions in an Array</td>
+    <td>Easy</td>
+  </tr>
 </table>
 
 <br>
@@ -190,4 +195,26 @@ That's it! You can now explore and solve the coding challenges locally on your m
     <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/StockMarketProfit.java">Stock Market Profit</a>📈 | Facebook</td>
     <td>Medium</td>
   </tr>
+   <tr>
+    <td>5</td>
+    <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/WetClothes.java">Wet Clothes</a>👚 | HackerEarth</td>
+    <td>Medium</td>
+  </tr>
 </table>
+
+<br>
+
+## 
+<table>
+  <tr>
+    <th>#</th>
+    <th>Challenge</th>
+    <th>Difficulty</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/MedianOfArrays.java">Median of Two Sorted Arrays</td>
+    <td>Hard</td>
+  </tr>
+</table>
+
