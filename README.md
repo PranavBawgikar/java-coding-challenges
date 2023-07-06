@@ -200,6 +200,11 @@ That's it! You can now explore and solve the coding challenges locally on your m
     <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/WetClothes.java">Wet Clothes</a>👚 | HackerEarth</td>
     <td>Medium</td>
   </tr>
+   <tr>
+    <td>6</td>
+    <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/Num2Word.java">Number 2 Word Converter</a></td>
+    <td>Medium</td>
+  </tr>
 </table>
 
 <br>
@@ -214,6 +219,11 @@ That's it! You can now explore and solve the coding challenges locally on your m
   <tr>
     <td>1</td>
     <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/MedianOfArrays.java">Median of Two Sorted Arrays</td>
+    <td>Hard</td>
+  </tr>
+   <tr>
+    <td>2</td>
+    <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/WordSeg.java">Word Segmentation with Dictionary Reuse</td>
     <td>Hard</td>
   </tr>
 </table>
