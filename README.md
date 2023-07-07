@@ -174,6 +174,11 @@ That's it! You can now explore and solve the coding challenges locally on your m
   <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/Tradefair.java">Trade Fair</a>🎪</td>
     <td>Easy</td>
   </tr>
+     <tr>
+	<td>29</td>
+  		<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/TreeNode.java">Invert a Binary Tree</a>🌲 | HackerEarth</td>
+    <td>Easy</td>
+</tr>
 </table>
 
 <br>
@@ -215,6 +220,11 @@ That's it! You can now explore and solve the coding challenges locally on your m
     <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/Num2Word.java">Number 2 Word Converter</a></td>
     <td>Medium</td>
   </tr>
+   <tr>
+	<td>7</td>
+    	<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/BiggBoss.java">Elimination week in BIGG BOSS HOUSE</a>👁️</td>
+    <td>Medium</td>
+</tr>
 </table>
 
 <br>
