@@ -164,6 +164,16 @@ That's it! You can now explore and solve the coding challenges locally on your m
   <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/CountInversion.java">Count Inversions in an Array</td>
     <td>Easy</td>
   </tr>
+     <tr>
+    <td>27</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/Change.java">Pranav and Change</a></td>
+    <td>Easy</td>
+</tr>
+<tr>
+    <td>28</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/Tradefair.java">Trade Fair</a>🎪</td>
+    <td>Easy</td>
+  </tr>
 </table>
 
 <br>
