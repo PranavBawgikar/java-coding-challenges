@@ -225,6 +225,16 @@ That's it! You can now explore and solve the coding challenges locally on your m
     	<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/BiggBoss.java">Elimination week in BIGG BOSS HOUSE</a>👁️</td>
     <td>Medium</td>
 </tr>
+<tr>
+	<td>8</td>
+    	<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/MineDiffusion.java">Mine Diffusion: Subarray Key Count</a></td>
+    <td>Medium</td>
+</tr>
+<tr>
+	<td>9</td>
+    	<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/DuplicateWords.java">Java RegEx 2 - Duplicate Words</a> | HackerRank</td>
+    <td>Medium</td>
+</tr>
 </table>
 
 <br>
