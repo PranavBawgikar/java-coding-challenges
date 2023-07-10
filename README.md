@@ -235,6 +235,10 @@ That's it! You can now explore and solve the coding challenges locally on your m
     	<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/DuplicateWords.java">Java RegEx 2 - Duplicate Words</a> | HackerRank</td>
     <td>Medium</td>
 </tr>
+	<td>10</td>
+    	<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/MinPlatforms.java">Minimum Number of Platforms Required for a Railway Station</a>🚋</td>
+    <td>Medium</td>
+</tr>
 </table>
 
 <br>
