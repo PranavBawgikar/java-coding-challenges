@@ -175,9 +175,14 @@ That's it! You can now explore and solve the coding challenges locally on your m
     <td>Easy</td>
   </tr>
      <tr>
-	<td>29</td>
-  		<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/TreeNode.java">Invert a Binary Tree</a>🌲 | HackerEarth</td>
-    <td>Easy</td>
+<td>29</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/TreeNode.java">Invert a Binary Tree</a>🌲 | HackerEarth</td>
+<td>Easy</td>
+</tr>
+<tr>
+<td>30</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/Tilegame.java">Tile Game</a>🔲</td>
+<td>Easy</td>
 </tr>
 </table>
 
