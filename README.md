@@ -239,9 +239,24 @@ That's it! You can now explore and solve the coding challenges locally on your m
 	<td>9</td>
     	<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/DuplicateWords.java">Java RegEx 2 - Duplicate Words</a> | HackerRank</td>
     <td>Medium</td>
-</tr>
+</tr><tr>
 	<td>10</td>
     	<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/MinPlatforms.java">Minimum Number of Platforms Required for a Railway Station</a>🚋</td>
+    <td>Medium</td>
+</tr>
+<tr>
+	<td>11</td>
+    	<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/TagContentExtract.java">Tag Content Extractor</a> | HackerRank</td>
+    <td>Medium</td>
+</tr>
+<tr>
+	<td>12</td>
+    	<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/BinTreeHeight.java">Binary Tree Height Calculation</a></td>
+    <td>Medium</td>
+</tr>
+<tr>
+	<td>13</td>
+    	<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/bigDecimal.java">Java BigDecimal</a> | HackerRank</td>
     <td>Medium</td>
 </tr>
 </table>
