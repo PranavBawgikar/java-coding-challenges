@@ -1,5 +1,7 @@
 <h1 align="center">💻Coding Challenges in Java♨️</h1>
 
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue) ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+
 ## Steps to Run Locally
 
 To run the coding challenges locally on your machine, follow these steps:
