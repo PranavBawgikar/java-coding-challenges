@@ -201,6 +201,11 @@ That's it! You can now explore and solve the coding challenges locally on your m
   <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/ListOperations.java">Java List</a> | HackerRank</td>
 <td>Easy</td>
 </tr>  
+<tr>
+<td>34</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/MaxConsecutiveOnes.java">Maximum Consecutive Ones</a></td>
+<td>Easy</td>
+</tr>  
 </table>
 
 <br>
