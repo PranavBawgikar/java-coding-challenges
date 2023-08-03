@@ -206,6 +206,28 @@ That's it! You can now explore and solve the coding challenges locally on your m
   <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/MaxConsecutiveOnes.java">Maximum Consecutive Ones</a></td>
 <td>Easy</td>
 </tr>  
+
+
+<td>35</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/DuplicateArray.java">Find Duplicate Elements in an Array</a></td>
+<td>Easy</td>
+</tr>  
+<td>36</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/PairsSumToK.java">Find Pairs with Given Sum in a Array</a></td>
+<td>Easy</td>
+</tr>  
+<td>37</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/SortZerOneTwo.java">Sort an Array of 0s, 1s and 2s</a></td>
+<td>Easy</td>
+</tr>  
+<td>38</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/BuyAndSellStock.java">Buy and Sell Stock - 1</a></td>
+<td>Easy</td>
+</tr>  
+<td>39</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/MajorityElement.java">Majority Element in an Array</a></td>
+<td>Easy</td>
+</tr>  
 </table>
 
 <br>
