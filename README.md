@@ -227,7 +227,12 @@ That's it! You can now explore and solve the coding challenges locally on your m
 <td>39</td>
   <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/MajorityElement.java">Majority Element in an Array</a></td>
 <td>Easy</td>
+</tr>
 </tr>  
+<td>40</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/OrderAgnosticBS.java">Order Agnostic Binary Search</a></td>
+<td>Easy</td>
+</tr> 
 </table>
 
 <br>
