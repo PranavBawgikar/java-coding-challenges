@@ -206,8 +206,6 @@ That's it! You can now explore and solve the coding challenges locally on your m
   <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/MaxConsecutiveOnes.java">Maximum Consecutive Ones</a></td>
 <td>Easy</td>
 </tr>  
-
-
 <td>35</td>
   <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/DuplicateArray.java">Find Duplicate Elements in an Array</a></td>
 <td>Easy</td>
@@ -232,7 +230,12 @@ That's it! You can now explore and solve the coding challenges locally on your m
 <td>40</td>
   <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/OrderAgnosticBS.java">Order Agnostic Binary Search</a></td>
 <td>Easy</td>
-</tr> 
+</tr>
+</tr>  
+<td>41</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/LongestIncSubarray.java">Longest Increasing Subarray</a></td>
+<td>Easy</td>
+</tr>
 </table>
 
 <br>
