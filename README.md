@@ -142,7 +142,7 @@ That's it! You can now explore and solve the coding challenges locally on your m
   </tr>
    <tr>
     <td>22</td>
-  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/RevArr.java">Array/String Reversal</a></td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/ListOperations.java">Java List</a> | HackerRank</a></td>
     <td>Easy</td>
   </tr>
    </tr>
@@ -198,7 +198,7 @@ That's it! You can now explore and solve the coding challenges locally on your m
 </tr>
 <tr>
 <td>33</td>
-  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/ListOperations.java">Java List</a> | HackerRank</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/RevArr.java">Array Reversal</td>
 <td>Easy</td>
 </tr>  
 <tr>
@@ -231,9 +231,19 @@ That's it! You can now explore and solve the coding challenges locally on your m
   <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/OrderAgnosticBS.java">Order Agnostic Binary Search</a></td>
 <td>Easy</td>
 </tr>
-</tr>  
+<tr>  
 <td>41</td>
   <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/LongestIncSubarray.java">Longest Increasing Subarray</a></td>
+<td>Easy</td>
+</tr>
+<tr>  
+<td>42</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/ReverseArrayInGroups.java">Reverse an Array in groups of Given size</a></td>
+<td>Easy</td>
+</tr>
+<tr>  
+<td>43</td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/ReverseString.java">Reverse String Using Array in Java</a></td>
 <td>Easy</td>
 </tr>
 </table>
