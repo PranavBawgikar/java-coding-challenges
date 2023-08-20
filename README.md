@@ -322,9 +322,14 @@ That's it! You can now explore and solve the coding challenges locally on your m
     <td>Medium</td>
 </tr>
 <tr>
-	<td>13</td>
-    	<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/bigDecimal.java">Java BigDecimal</a> | HackerRank</td>
-    <td>Medium</td>
+<td>13</td>
+<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/bigDecimal.java">Java BigDecimal</a> | HackerRank</td>
+<td>Medium</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/bitonicSubarray.java">Longest Bitonic Subarray</td>
+<td>Medium</td>
 </tr>
 </table>
 
