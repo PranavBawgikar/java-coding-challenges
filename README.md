@@ -248,7 +248,12 @@ That's it! You can now explore and solve the coding challenges locally on your m
 </tr>
 <tr>  
 <td>44</td>
-  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/ReverseString.java">Reverse String Using Array in Java</a></td>
+<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/ReverseString.java">Reverse String Using Array in Java</a></td>
+<td>Easy</td>
+</tr>
+<tr>  
+<td>45</td>
+<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/VarargsDemo.java">Java Varargs - Simple Edition</a> | HackerRank</td>
 <td>Easy</td>
 </tr>
 </table>
