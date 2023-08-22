@@ -256,6 +256,16 @@ That's it! You can now explore and solve the coding challenges locally on your m
 <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/VarargsDemo.java">Java Varargs - Simple Edition</a> | HackerRank</td>
 <td>Easy</td>
 </tr>
+<tr>  
+<td>46</td>
+<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/MaxSubarraySum.java">Maximum Subarray Sum/Kadane's Algorithm</td>
+<td>Easy</td>
+</tr>
+<tr>  
+<td>47</td>
+<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/AnagramI.java">Group Anagrams Together</td>
+<td>Easy</td>
+</tr>
 </table>
 
 <br>
