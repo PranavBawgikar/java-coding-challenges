@@ -268,7 +268,7 @@ That's it! You can now explore and solve the coding challenges locally on your m
 </tr>
 <tr>  
 <td>48</td>
-<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/DFSInorder.java">Inorder Traversal</td>
+<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/DFSInorder.java">Inorder, Preorder and Postorder Traversal</td>
 <td>Easy</td>
 </tr>
 </table>
