@@ -266,6 +266,11 @@ That's it! You can now explore and solve the coding challenges locally on your m
 <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/AnagramI.java">Group Anagrams Together</td>
 <td>Easy</td>
 </tr>
+<tr>  
+<td>48</td>
+<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/DFSInorder.java">Inorder Traversal</td>
+<td>Easy</td>
+</tr>
 </table>
 
 <br>
