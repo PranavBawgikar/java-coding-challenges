@@ -7,7 +7,10 @@ For traversing a (non-empty) binary tree in an inorder fashion, we must do these
 (N) Process `n` itself.
 (R) Recursively traverse its right subtree. When this step is finished, we are back at `n` again.
 
-In normal inorder traversal, we visit the left subtree before the right subtree. If we visit the right subtree before visiting the left subtree, it is referred to as reverse inorder traversal.
+In normal inorder traversal, we visit the left subtree before the right subtree. 
+If we visit the right subtree before visiting the left subtree, it is referred to as reverse inorder traversal.
+
+Note: Comment out the other two traversals if you are testing any of the traversals.
 */
 
 //Data structure to store a binary tree node
@@ -24,19 +27,28 @@ class Node {
 
 public class DFSInorder {
 	//Recursive function to perform inorder traversal on the tree
-	public static void inorder(Node root) {
+	public static void orderTraversal(Node root) {
 		if(root == null) {
 			return;
 		}
 
+		//Inorder Traversal
 		//Traverse the left subtree
 		inorder(root.left);
-
 		//Display the data part of the root or current node
 		System.out.print(root.data + " ");
-
 		//Traverse the right subtree
 		inorder(root.right);
+
+		//Preorder Traversal
+		System.out.print(root.data + " ");
+		inorder(root.left);
+		inorder(root.right);
+
+		//Postorder Traversal
+		inorder(root.left);
+		inorder(root.right);
+		System.out.print(root.data + " ");
 	}
 
 	public static void main(String[] args) {
@@ -48,6 +60,6 @@ public class DFSInorder {
 		root.right.right = new Node(6);
 		root.right.left.left = new Node(7);
 		root.right.left.right = new Node(8);
-		inorder(root);
+		orderTraversal(root);
 	}
 }
