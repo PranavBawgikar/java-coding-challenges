@@ -271,6 +271,26 @@ That's it! You can now explore and solve the coding challenges locally on your m
 <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/DFSInorder.java">Inorder, Preorder and Postorder Traversal</td>
 <td>Easy</td>
 </tr>
+<tr>  
+<td>49</td>
+<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/HCF.java">HCF of two numbers withour Recursion</td>
+<td>Easy</td>
+</tr>
+<tr>  
+<td>50</td>
+<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/ParitySort.java">Sort Array by Parity</td>
+<td>Easy</td>
+</tr>
+<tr>  
+<td>51</td>
+<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/StringI.java">Remove Special Characters from String</td>
+<td>Easy</td>
+</tr>
+<tr>  
+<td>52</td>
+<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/StackI.java">Java Stack</a> | HackerRank</td>
+<td>Easy</td>
+</tr>
 </table>
 
 <br>
