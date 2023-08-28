@@ -273,7 +273,7 @@ That's it! You can now explore and solve the coding challenges locally on your m
 </tr>
 <tr>  
 <td>49</td>
-<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/HCF.java">HCF of two numbers withour Recursion</td>
+<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/HCF.java">HCF of two numbers without Recursion</td>
 <td>Easy</td>
 </tr>
 <tr>  
