@@ -223,12 +223,13 @@ That's it! You can now explore and solve the coding challenges locally on your m
 <td>Easy</td>
 </tr>  
 <td>39</td>
-  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/MajorityElement.java">Majority Element in an Array</a></td>
+  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/OrderAgnosticBS.java">Order Agnostic Binary Search</a></td>
 <td>Easy</td>
 </tr>
 </tr>  
 <td>40</td>
-  <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/OrderAgnosticBS.java">Order Agnostic Binary Search</a></td>
+<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/MajorityElement.java">Majority Element in an Array</a></td>
+
 <td>Easy</td>
 </tr>
 <tr>  
@@ -253,7 +254,7 @@ That's it! You can now explore and solve the coding challenges locally on your m
 </tr>
 <tr>  
 <td>45</td>
-<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/VarargsDemo.java">Java Varargs - Simple Edition</a> | HackerRank</td>
+<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/ParitySort.java">Sort Array by Parity</td>
 <td>Easy</td>
 </tr>
 <tr>  
@@ -278,7 +279,7 @@ That's it! You can now explore and solve the coding challenges locally on your m
 </tr>
 <tr>  
 <td>50</td>
-<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/ParitySort.java">Sort Array by Parity</td>
+<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/VarargsDemo.java">Java Varargs - Simple Edition</a> | HackerRank</td>
 <td>Easy</td>
 </tr>
 <tr>  
