@@ -292,6 +292,21 @@ That's it! You can now explore and solve the coding challenges locally on your m
 <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/StackI.java">Java Stack</a> | HackerRank</td>
 <td>Easy</td>
 </tr>
+<tr>  
+<td>53</td>
+<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/ReverseNum.java">Reverse a Number</td>
+<td>Easy</td>
+</tr>
+<tr>  
+<td>54</td>
+<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/APSeries.java">Sum of AP Series</td>
+<td>Easy</td>
+</tr>
+<tr>  
+<td>55</td>
+<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/DecToBin.java">Convert Decimal to Binary</td>
+<td>Easy</td>
+</tr>
 </table>
 
 <br>
