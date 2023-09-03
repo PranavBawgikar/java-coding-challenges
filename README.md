@@ -307,6 +307,16 @@ That's it! You can now explore and solve the coding challenges locally on your m
 <td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/DecToBin.java">Convert Decimal to Binary</td>
 <td>Easy</td>
 </tr>
+<tr>  
+<td>56</td>
+<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/LeapYear.java">Check Leap Year</td>
+<td>Easy</td>
+</tr>
+<tr>  
+<td>57</td>
+<td><a href="https://github.com/PranavBawgikar/java-coding-challenges/blob/main/DecToBin.java">Rat Count House</a> 🐁</td>
+<td>Easy</td>
+</tr>
 </table>
 
 <br>
